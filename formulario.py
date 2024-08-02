@@ -8,3 +8,4 @@ print("Nombre: "+ nombre)
 print("Apellido: "+ apellido)
 print("tengo " +str(edad)+"años")
 print("Correo: "+ telefono)
+
